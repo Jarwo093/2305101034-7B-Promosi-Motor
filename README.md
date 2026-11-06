@@ -2,12 +2,12 @@
 
 ## Identitas Mahasiswa
 
-- Nama: [Nama Lengkap]
-- NIM: [NIM]
-- Kelas: [Kelas]
-- Program Studi: [Program Studi]
+- Nama: Adi Rifai Widodo
+- NIM: 2305101023
+- Kelas: 7B
+- Program Studi: Teknik Informatika
 - Mata Kuliah: Pemrograman Mobile
-- Tahun Akademik: [Tahun Akademik]
+- Tahun Akademik: 2023
 
 ## Deskripsi
 
